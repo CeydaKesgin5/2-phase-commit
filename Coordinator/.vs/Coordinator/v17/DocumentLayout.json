@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77258585-679B-4DFA-8C6F-8726E35E6C3F}|Coordinator\\Coordinator.csproj|c:\\users\\ceydak\\desktop\\coordinator\\coordinator\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77258585-679B-4DFA-8C6F-8726E35E6C3F}|Coordinator\\Coordinator.csproj|solutionrelative:coordinator\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7D39D-9CFD-4CF0-874B-232ABD9FAF61}|StockAPI\\StockAPI.csproj|c:\\users\\ceydak\\desktop\\coordinator\\stockapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EC7D39D-9CFD-4CF0-874B-232ABD9FAF61}|StockAPI\\StockAPI.csproj|solutionrelative:stockapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410BD208-B19E-461A-B8BE-D129CEAA94E2}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\ceydak\\desktop\\coordinator\\paymentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{410BD208-B19E-461A-B8BE-D129CEAA94E2}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410BD208-B19E-461A-B8BE-D129CEAA94E2}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\ceydak\\desktop\\coordinator\\paymentapi\\paymentapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{410BD208-B19E-461A-B8BE-D129CEAA94E2}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\paymentapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1574C46-1AA4-4F28-9074-5621124C0CCD}|OrderAPI\\OrderAPI.csproj|c:\\users\\ceydak\\desktop\\coordinator\\orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1574C46-1AA4-4F28-9074-5621124C0CCD}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77258585-679B-4DFA-8C6F-8726E35E6C3F}|Coordinator\\Coordinator.csproj|c:\\users\\ceydak\\desktop\\coordinator\\coordinator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77258585-679B-4DFA-8C6F-8726E35E6C3F}|Coordinator\\Coordinator.csproj|solutionrelative:coordinator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1574C46-1AA4-4F28-9074-5621124C0CCD}|OrderAPI\\OrderAPI.csproj|c:\\users\\ceydak\\desktop\\coordinator\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1574C46-1AA4-4F28-9074-5621124C0CCD}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77258585-679B-4DFA-8C6F-8726E35E6C3F}|Coordinator\\Coordinator.csproj|c:\\users\\ceydak\\desktop\\coordinator\\coordinator\\models\\contexts\\twophasecommitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77258585-679B-4DFA-8C6F-8726E35E6C3F}|Coordinator\\Coordinator.csproj|solutionrelative:coordinator\\models\\contexts\\twophasecommitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77258585-679B-4DFA-8C6F-8726E35E6C3F}|Coordinator\\Coordinator.csproj|c:\\users\\ceydak\\desktop\\coordinator\\coordinator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77258585-679B-4DFA-8C6F-8726E35E6C3F}|Coordinator\\Coordinator.csproj|solutionrelative:coordinator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\OrderAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OrderAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\OrderAPI\\Program.cs",
+              "RelativeToolTip": "OrderAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:11:30.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentAPI",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\PaymentAPI\\PaymentAPI.csproj",
+              "RelativeDocumentMoniker": "PaymentAPI\\PaymentAPI.csproj",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\PaymentAPI\\PaymentAPI.csproj",
+              "RelativeToolTip": "PaymentAPI\\PaymentAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T12:15:44.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\Coordinator\\Program.cs",
+              "RelativeDocumentMoniker": "Coordinator\\Program.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\Coordinator\\Program.cs",
+              "RelativeToolTip": "Coordinator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:13:58.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\OrderAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\OrderAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T12:15:31.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\PaymentAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PaymentAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\PaymentAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PaymentAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T12:15:47.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\StockAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StockAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\StockAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StockAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T12:16:01.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\Coordinator\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Coordinator\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\Coordinator\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Coordinator\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:19:00.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TwoPhaseCommitContext.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\Coordinator\\Models\\Contexts\\TwoPhaseCommitContext.cs",
+              "RelativeDocumentMoniker": "Coordinator\\Models\\Contexts\\TwoPhaseCommitContext.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\Coordinator\\Models\\Contexts\\TwoPhaseCommitContext.cs",
+              "RelativeToolTip": "Coordinator\\Models\\Contexts\\TwoPhaseCommitContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:14:28.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\Coordinator\\appsettings.json",
+              "RelativeDocumentMoniker": "Coordinator\\appsettings.json",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\Coordinator\\Coordinator\\appsettings.json",
+              "RelativeToolTip": "Coordinator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T12:13:39.967Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1194,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

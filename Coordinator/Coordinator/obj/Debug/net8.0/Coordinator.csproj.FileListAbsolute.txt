@@ -1,0 +1,8 @@
+C:\Users\CeydaK\source\repos\Coordinator\Coordinator\obj\Debug\net8.0\Coordinator.csproj.AssemblyReference.cache
+C:\Users\CeydaK\source\repos\Coordinator\Coordinator\obj\Debug\net8.0\Coordinator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CeydaK\source\repos\Coordinator\Coordinator\obj\Debug\net8.0\Coordinator.AssemblyInfoInputs.cache
+C:\Users\CeydaK\source\repos\Coordinator\Coordinator\obj\Debug\net8.0\Coordinator.AssemblyInfo.cs
+C:\Users\CeydaK\source\repos\Coordinator\Coordinator\obj\Debug\net8.0\Coordinator.csproj.CoreCompileInputs.cache
+C:\Users\CeydaK\source\repos\Coordinator\Coordinator\obj\Debug\net8.0\Coordinator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CeydaK\source\repos\Coordinator\Coordinator\obj\Debug\net8.0\Coordinator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CeydaK\source\repos\Coordinator\Coordinator\obj\Debug\net8.0\Coordinator.sourcelink.json

@@ -1,0 +1,8 @@
+C:\Users\CeydaK\source\repos\Coordinator\PaymentAPI\obj\Debug\net8.0\PaymentAPI.csproj.AssemblyReference.cache
+C:\Users\CeydaK\source\repos\Coordinator\PaymentAPI\obj\Debug\net8.0\PaymentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CeydaK\source\repos\Coordinator\PaymentAPI\obj\Debug\net8.0\PaymentAPI.AssemblyInfoInputs.cache
+C:\Users\CeydaK\source\repos\Coordinator\PaymentAPI\obj\Debug\net8.0\PaymentAPI.AssemblyInfo.cs
+C:\Users\CeydaK\source\repos\Coordinator\PaymentAPI\obj\Debug\net8.0\PaymentAPI.csproj.CoreCompileInputs.cache
+C:\Users\CeydaK\source\repos\Coordinator\PaymentAPI\obj\Debug\net8.0\PaymentAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CeydaK\source\repos\Coordinator\PaymentAPI\obj\Debug\net8.0\PaymentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CeydaK\source\repos\Coordinator\PaymentAPI\obj\Debug\net8.0\PaymentAPI.sourcelink.json

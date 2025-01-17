@@ -1,0 +1,8 @@
+C:\Users\CeydaK\source\repos\Coordinator\OrderAPI\obj\Debug\net8.0\OrderAPI.csproj.AssemblyReference.cache
+C:\Users\CeydaK\source\repos\Coordinator\OrderAPI\obj\Debug\net8.0\OrderAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CeydaK\source\repos\Coordinator\OrderAPI\obj\Debug\net8.0\OrderAPI.AssemblyInfoInputs.cache
+C:\Users\CeydaK\source\repos\Coordinator\OrderAPI\obj\Debug\net8.0\OrderAPI.AssemblyInfo.cs
+C:\Users\CeydaK\source\repos\Coordinator\OrderAPI\obj\Debug\net8.0\OrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\CeydaK\source\repos\Coordinator\OrderAPI\obj\Debug\net8.0\OrderAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CeydaK\source\repos\Coordinator\OrderAPI\obj\Debug\net8.0\OrderAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CeydaK\source\repos\Coordinator\OrderAPI\obj\Debug\net8.0\OrderAPI.sourcelink.json

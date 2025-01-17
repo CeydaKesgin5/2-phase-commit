@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Coordinator\\Coordinator.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OrderAPI\\OrderAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "StockAPI\\StockAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PaymentAPI\\PaymentAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

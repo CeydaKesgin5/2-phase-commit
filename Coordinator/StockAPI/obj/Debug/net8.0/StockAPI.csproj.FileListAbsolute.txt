@@ -1,0 +1,8 @@
+C:\Users\CeydaK\source\repos\Coordinator\StockAPI\obj\Debug\net8.0\StockAPI.csproj.AssemblyReference.cache
+C:\Users\CeydaK\source\repos\Coordinator\StockAPI\obj\Debug\net8.0\StockAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CeydaK\source\repos\Coordinator\StockAPI\obj\Debug\net8.0\StockAPI.AssemblyInfoInputs.cache
+C:\Users\CeydaK\source\repos\Coordinator\StockAPI\obj\Debug\net8.0\StockAPI.AssemblyInfo.cs
+C:\Users\CeydaK\source\repos\Coordinator\StockAPI\obj\Debug\net8.0\StockAPI.csproj.CoreCompileInputs.cache
+C:\Users\CeydaK\source\repos\Coordinator\StockAPI\obj\Debug\net8.0\StockAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CeydaK\source\repos\Coordinator\StockAPI\obj\Debug\net8.0\StockAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CeydaK\source\repos\Coordinator\StockAPI\obj\Debug\net8.0\StockAPI.sourcelink.json
